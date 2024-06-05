@@ -33,12 +33,12 @@ Run the cell to execute the workflow. The summarized news articles will be print
 
 #app.py (optional): If you decide to run the application outside of Jupyter Notebook, you can create an app.py file with the same code.
 
-# news.db: SQLite database file where news articles and their summaries are stored.
+news.db: SQLite database file where news articles and their summaries are stored.
 Customization
 
-# Model: The code uses the Azma-AI/bart-large-text-summarizer model. You can change this to any other model available on Hugging Face by modifying the model name in the pipeline initialization.
+Model: The code uses the Azma-AI/bart-large-text-summarizer model. You can change this to any other model available on Hugging Face by modifying the model name in the pipeline initialization.
 
-# Database: SQLite database is used for simplicity. You can configure SQLAlchemy to use other databases like PostgreSQL or MySQL if needed.
+Database: SQLite database is used for simplicity. You can configure SQLAlchemy to use other databases like PostgreSQL or MySQL if needed.
 Contributing
 
 Feel free to submit issues or pull requests if you have any improvements or bug fixes.
