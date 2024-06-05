@@ -1,3 +1,5 @@
+![Screenshot (270)](https://github.com/Sahasra-Kesara/News-Summarization-Application/assets/121740972/859e3907-cfed-4b9c-8972-60d6a4659fcf)
+![Screenshot (271)](https://github.com/Sahasra-Kesara/News-Summarization-Application/assets/121740972/46598874-c1ea-4724-b68d-4ed2a92c5538)
 # News Summarization Application
 
 This project demonstrates a complete workflow for summarizing news articles using the Hugging Face transformers library, storing them in a SQLite database using Flask and SQLAlchemy, and displaying the summarized articles within a Jupyter Notebook.
