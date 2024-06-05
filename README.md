@@ -24,11 +24,11 @@ Open Jupyter Notebook
 jupyter notebook
 ```
 
-# Create a new notebook or open the provided notebook file.
+ Create a new notebook or open the provided notebook file.
 
 # Copy and paste the complete workflow code into a cell in the Jupyter Notebook
 
-# Run the cell to execute the workflow. The summarized news articles will be printed in the notebook output.
+ Run the cell to execute the workflow. The summarized news articles will be printed in the notebook output.
 
 ## Project Structure
 
