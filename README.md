@@ -17,6 +17,7 @@ Before you begin, ensure you have the following installed:
 ```bash
 pip install flask flask_sqlalchemy transformers
 ```
+
 #Usage
 Open Jupyter Notebook
 ```bash
@@ -31,7 +32,7 @@ Run the cell to execute the workflow. The summarized news articles will be print
 
 ## Project Structure
 
-#app.py (optional): If you decide to run the application outside of Jupyter Notebook, you can create an app.py file with the same code.
+app.py (optional): If you decide to run the application outside of Jupyter Notebook, you can create an app.py file with the same code.
 
 news.db: SQLite database file where news articles and their summaries are stored.
 Customization
